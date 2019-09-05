@@ -1,0 +1,2 @@
+include ':app', ':sendtransaction'
+rootProject.name='Jatpack Navigation'
